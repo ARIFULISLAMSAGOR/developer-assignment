@@ -15,6 +15,7 @@ h1{
 .first-section{
     display: flex;
     justify-content: space-around;
+    padding-top:50px;
 }
 .half-width{
     width: 50%;
@@ -56,5 +57,6 @@ h1{
     background-color: linen;
     padding-left: 30px;
 }
+
     
     
