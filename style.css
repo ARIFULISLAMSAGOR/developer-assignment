@@ -1,0 +1,60 @@
+body{
+    margin-left: 150px;
+    margin-top: 40px;
+    font-family: 'Lobster', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
+.link{
+    color: orange;
+}
+h1{
+    font-size: 40px;
+}
+.first-section{
+    display: flex;
+    justify-content: space-around;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 60%;
+    padding-left: 4%;
+}
+.details-btn{
+    padding: 10px 30px;
+    border: none;
+    background-image: linear-gradient(salmon,tomato);
+}
+.details-border{
+    border-image: linear-gradient(purple,tomato);
+    border-image-slice: 1;
+    border-left: 4px solid;
+    padding-left: 10px;
+    
+}
+.mission{
+    text-align: center;
+}
+.left-side{
+    width: 300px;
+    background-color:mistyrose;
+    padding-left:30px;
+}
+.div-img img{
+    width:50%;
+}
+.middle-sight{
+    width: 300px;
+    background-color:rgb(223, 207, 207);
+    padding-left: 30px;
+}
+.right-side{
+    width: 300px;
+    background-color: linen;
+    padding-left: 30px;
+}
+    
+    
