@@ -43,6 +43,7 @@ h1{
     width: 300px;
     background-color:mistyrose;
     padding-left:30px;
+    border-radius: 10px;
 }
 .div-img img{
     width:50%;
@@ -51,11 +52,13 @@ h1{
     width: 300px;
     background-color:rgb(223, 207, 207);
     padding-left: 30px;
+    border-radius: 10px;
 }
 .right-side{
     width: 300px;
     background-color: linen;
     padding-left: 30px;
+    border-radius: 10px;
 }
 .details-foot{
     background-color: black;
